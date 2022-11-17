@@ -1,4 +1,4 @@
-class ChatroomlController < ApplicationController
+class ChatroomController < ApplicationController
   def index
   end
 end
